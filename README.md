@@ -1,2 +1,18 @@
-# Azure_WebApp_Deploy_SpringBoot_WebAPI
-How to deploy SpringBoot WebAPI to Azure Web App
+# How to deploy SpringBoot WebAPI to Azure Web App
+
+## 1. 
+
+
+## 2. 
+
+
+
+## 3.
+
+
+
+## 4. 
+
+
+
+
